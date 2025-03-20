@@ -1,5 +1,5 @@
 # Input the users full name
-full_name = input("Enter your full name: ")
+full_name = input("Enter your full name (incorrect casing): ")
 
 # Convert in snake casing
 snake_case_name = full_name.lower().replace(" ", "_")

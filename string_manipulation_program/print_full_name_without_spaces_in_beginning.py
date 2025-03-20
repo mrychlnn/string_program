@@ -1,5 +1,5 @@
 # Input the users full name
-full_name = input("Enter your full name: ")
+full_name = input("Enter your full name (with several spaces at the beginning): ")
 
 # Remove leading spaces
 remove_spaces = full_name.lstrip()
